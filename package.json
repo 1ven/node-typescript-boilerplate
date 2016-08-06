@@ -1,0 +1,24 @@
+{
+  "name": "node-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "Node typescript boilerplate using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ven/node-typescript-boilerplate.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "1ven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ven/node-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/1ven/node-typescript-boilerplate#readme"
+}
