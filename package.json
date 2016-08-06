@@ -4,7 +4,7 @@
   "description": "Node typescript boilerplate using typescript",
   "main": "index.js",
   "scripts": {
-    "development": "webpack --watch --config webpack.config.dev.js"
+    "development": "webpack --watch"
   },
   "repository": {
     "type": "git",
