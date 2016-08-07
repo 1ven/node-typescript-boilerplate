@@ -7,11 +7,11 @@ module.exports = {
   target: 'node',
   module: {
     loaders: [{
-      test: /\.ts?$/,
+      test: /\.tsx?$/,
       loader: 'ts-loader',
     }],
   },
   resolve: {
-    extensions: ['.ts', '.js'],
+    extensions: ['', '.webpack.js', '.web.js', '.ts', '.tsx', '.js']
   },
 };
